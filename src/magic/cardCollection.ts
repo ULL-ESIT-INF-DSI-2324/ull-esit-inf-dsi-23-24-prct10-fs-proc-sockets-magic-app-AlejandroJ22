@@ -146,6 +146,7 @@ export class CardCollection implements CardCollectionInterface {
   /**
    * Método que escribe las cartas en el archivo de colección.
    * @param callback La función de devolución de llamada que se llamará después de escribir en el archivo.
+   * @note implementar un segundo parametro string que confirme que se ha realizdo la operación con éxito.
    */
   writeCards(callback: (err: string | undefined) => void): void {
     const cardsData = JSON.stringify([...this.cards.values()], null, 2);
