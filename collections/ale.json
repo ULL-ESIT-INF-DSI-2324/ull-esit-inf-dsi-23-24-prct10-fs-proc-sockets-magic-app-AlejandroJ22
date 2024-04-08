@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Black Lotus",
+    "mana": 0,
+    "cardColor": "colorless",
+    "cardType": "Artifact",
+    "cardRarity": "mythic",
+    "rules": "T: Sacrifice Black Lotus: Add three mana of any one color to your mana pool.",
+    "powerAndResistance": null,
+    "loyalty": null,
+    "value": 20000
+  }
+]

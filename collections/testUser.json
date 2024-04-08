@@ -1,0 +1,28 @@
+[]  {
+    "id": 2,
+    "name": "Test Card 2",
+    "mana": 3,
+    "cardColor": "black",
+    "cardType": "Sorcery",
+    "cardRarity": "rare",
+    "rules": "Test rules 2",
+    "powerAndResistance": null,
+    "loyalty": null,
+    "value": 6
+  }
+]l,
+    "value": 5
+  },
+  {
+    "id": 2,
+    "name": "Test Card 2",
+    "mana": 3,
+    "cardColor": "black",
+    "cardType": "Sorcery",
+    "cardRarity": "rare",
+    "rules": "Test rules 2",
+    "powerAndResistance": null,
+    "loyalty": null,
+    "value": 6
+  }
+]
