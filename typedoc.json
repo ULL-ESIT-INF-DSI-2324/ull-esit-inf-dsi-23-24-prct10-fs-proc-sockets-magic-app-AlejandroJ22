@@ -1,7 +1,8 @@
 {
   "entryPoints": [
     "./src/*.ts",
-    "./src/magic/*.ts"
+    "./src/client-server-magic/*.ts",
+    "./src/pe/*.ts"
   ],
   "out": "./docs"
 }
