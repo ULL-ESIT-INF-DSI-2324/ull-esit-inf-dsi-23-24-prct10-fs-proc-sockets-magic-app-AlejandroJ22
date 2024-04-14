@@ -1,7 +1,7 @@
 import "mocha";
 import { expect } from "chai";
-import { Card, CardColor, CardType, CardRarity } from "../src/magic/card.js";
-import { CardCollection } from "../src/magic/cardCollection.js";
+import { Card, CardColor, CardType, CardRarity } from "../src/pe/card.js";
+import { CardCollection } from "../src/pe/cardCollection.js";
 
 describe("CardCollection Tests", () => {
   const collection = new CardCollection("testUser");

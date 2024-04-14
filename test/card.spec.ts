@@ -2,7 +2,7 @@ import "mocha";
 import { expect } from "chai";
 import chalk from "chalk";
 
-import { Card, CardColor, CardType, CardRarity } from "../src/magic/card.js";
+import { Card, CardColor, CardType, CardRarity } from "../src/pe/card.js";
 
 describe("Card", () => {
   // Prueba para verificar si el método showCard() retorna correctamente los atributos de la carta
